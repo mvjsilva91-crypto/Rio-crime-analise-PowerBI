@@ -40,7 +40,8 @@ Visualização do dashboard desenvolvido no Power BI:
 
 A documentação completa do case pode ser acessada aqui:
 
-docs/case/case-study.md
+
+[Case Study](docs/case-study.md)
 
 ## 📁 Fonte dos dados
 
