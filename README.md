@@ -34,7 +34,7 @@ images/ → imagens do dashboard
 
 Visualização do dashboard desenvolvido no Power BI:
 
-[Arquivo PBIX](redmi/dashboard_final.pbix) 
+[PDF do Dashboard](redmi/dashboard_final.pdf)
 
 ## 📄 Documentação completa
 
