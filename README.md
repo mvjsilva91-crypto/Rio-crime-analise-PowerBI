@@ -41,7 +41,7 @@ Visualização do dashboard desenvolvido no Power BI:
 A documentação completa do case pode ser acessada aqui:
 
 
-[[Case Study](docs/case-study.md)](https://github.com/SEU_USUARIO/Rio-crime-analise-PowerBI/blob/main/docs/case-study.md)
+[Case Study](docs/case/case-study.md)
 
 ## 📁 Fonte dos dados
 
